@@ -1,6 +1,6 @@
-# Mundo Mágico: Minha Cidade
+# Mundo Mágico — Minha cidade de brincar
 
-![Mundo Mágico: Minha Cidade de Brincar, com o mapa da cidade do jogo](imagens/capa.jpg)
+![Mundo Mágico — Minha cidade de brincar, com o mapa da cidade do jogo](imagens/capa-2.jpg)
 
 Jogo infantil para Android, de 4 a 6 anos, feito pela [SrChZ Technologies](https://www.srchz-technologies.com.br/). Uma cidade inteira para a criança brincar do jeito dela: arrastar os personagens, abrir a geladeira, dar banho no cachorrinho, apagar o fogo de treino com os bombeiros e inventar as próprias histórias. Sem vitória, derrota nem cronômetro.
 
@@ -48,7 +48,7 @@ A SrChZ cria apps e jogos para empresas, escolas e órgãos públicos, do concei
 
 ## In English
 
-**Mundo Mágico: Minha Cidade** (Magic World: My Town) is an Android game for children aged 4 to 6, made by SrChZ Technologies. A whole town for the child to play their own way: drag the characters around, open the fridge, give the puppy a bath, put out the practice fire with the firefighters and make up their own stories. No winning, no losing, no timer.
+**Mundo Mágico — Minha cidade de brincar** (Magic World — My Play City) is an Android game for children aged 4 to 6, made by SrChZ Technologies. A whole town for the child to play their own way: drag the characters around, open the fridge, give the puppy a bath, put out the practice fire with the firefighters and make up their own stories. No winning, no losing, no timer.
 
 **[Get it on Google Play](https://play.google.com/store/apps/details?id=br.com.srchztechnologies.mundomagico)** · [Game page](https://www.srchz-technologies.com.br/mundo-magico/) · [Privacy policy](https://www.srchz-technologies.com.br/mundo-magico/privacidade.html)
 
